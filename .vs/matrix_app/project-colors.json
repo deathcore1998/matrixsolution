@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ac7f1fd-7e52-4359-990f-a5e039ce29e4": {
+      "ProjectGuid": "3ac7f1fd-7e52-4359-990f-a5e039ce29e4",
+      "DisplayName": "matrix_app",
+      "ColorIndex": 0
+    },
+    "0cc4e1bf-000c-42db-91a1-0c5c256fc218": {
+      "ProjectGuid": "0cc4e1bf-000c-42db-91a1-0c5c256fc218",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
